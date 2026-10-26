@@ -1,0 +1,5 @@
+- [x] Test faylidagi import xatosini tuzatish
+- [x] Test faylidagi klass nomini tuzatish
+- [x] O'zgarishlarni tekshirish (analyze)
+- [x] Core Library Desugaring'ni yoqish
+- [x] Build'ni tekshirish (Desugaring xatosi ketdi, lekin Gradle service xatosi chiqdi)

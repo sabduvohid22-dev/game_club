@@ -1,0 +1,6 @@
+- [x] `StationStore` mantiqini qulflash tizimi bilan kuchaytirish
+    - [x] `_stoppingStations` to'plamini qo'shish
+    - [x] `stopStation`ni qulflash mantiqi bilan yangilash
+    - [x] `_tick`ni qulflangan stansiyalarni chetlab o'tadigan qilish
+- [x] `HomeScreen`da dialoglarni barqarorlashtirish
+- [x] O'zgarishlarni yakunlash

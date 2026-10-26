@@ -1,0 +1,9 @@
+- `[x]` Ikonkani tayyorlash
+    - `[x]` Rasmni release papkasiga ko'chirildi
+- `[x]` Ma'lumotlar bazasini ko'chirish (Migration)
+    - `[x]` `DbService.dart` yangilandi (AppData'ga o'tish)
+    - `[x]` Eski bazani yangi joyga ko'chirish logikasi qo'shildi
+- `[x]` Dasturni qayta yig'ish (Build)
+    - `[x]` `flutter build windows` yakunlandi
+- `[x]` Ish stoliga joylash
+    - `[x]` **"NEON ARENA Hisoblagich"** yarligi yaratildi
